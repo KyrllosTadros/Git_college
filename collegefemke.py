@@ -1,0 +1,1 @@
+print("Hoi Walid wil je de volgende keer niet komen?")
