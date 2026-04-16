@@ -4,3 +4,4 @@ print("Deze daggoe gaat niet meer tegen je praten, jij bent zo'n bot die hij laa
 print("Goed dat je zelf inziet dat je een daggoe bent Wally. Je hoort op de straat in je trainingspak voor daggoes WALLY.")
 print("Ik hoop dat je stofzuiger kapot kaat FEM|<E")
 print("ik hoop dat jij thuis door je stofzuiger opgezogen wordt en dat je verdwijnt WALLY")
+print("top")
